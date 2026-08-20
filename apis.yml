@@ -35,6 +35,15 @@ tags:
 - Company
 - Logistics
 - Delivery
+- Couriers
+- Shipping
+- Last Mile
+- E-Commerce
+- Uzbekistan
+tags_raw:
+- Company
+- Logistics
+- Delivery
 - Courier
 - Shipping
 - Last Mile
@@ -51,6 +60,10 @@ apis:
   humanURL: https://tezbor.uz/en/integration
   baseURL: https://api.tezbor.uz
   tags:
+  - Delivery
+  - Logistics
+  - Couriers
+  tags_raw:
   - Delivery
   - Logistics
   - Courier
