@@ -46,7 +46,7 @@ tags:
 - Company
 - Logistics
 - Delivery
-- Couriers
+- Courier
 - Shipping
 - Last Mile
 - E-Commerce
@@ -73,7 +73,7 @@ apis:
   tags:
   - Delivery
   - Logistics
-  - Couriers
+  - Courier
   tags_raw:
   - Delivery
   - Logistics
