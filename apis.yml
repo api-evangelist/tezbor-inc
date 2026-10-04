@@ -22,7 +22,7 @@ accessModel:
   generated: '2026-07-22'
   method: derived
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/tezbor-inc.png
-name: Tezbor, Inc.
+name: Tezbor
 description: >-
   Tezbor is a Tashkent, Uzbekistan based courier and last-mile logistics company that
   automates the delivery of documents, parcels, and cargo across Uzbekistan. Beyond its
@@ -48,7 +48,7 @@ tags:
 - Delivery
 - Couriers
 - Shipping
-- Last Mile
+- Last Mile Delivery
 - E-Commerce
 - Uzbekistan
 tags_raw:
@@ -102,3 +102,4 @@ x-enrichment:
   status: minimal
   artifacts_added: 1
   pass: local-v1
+x-legal-name: Tezbor, Inc.
